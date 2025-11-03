@@ -14,7 +14,7 @@ Redis
 
 MongoDB
 
-Kafka
+RabbitMQ
 
 * 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me on [Telegram](https://t.me/innwayyy)
