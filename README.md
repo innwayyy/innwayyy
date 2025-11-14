@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm innwayyy
 
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
+[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31kzd5la5yktblphhptwas6nlncq)
 
 ## 🙋‍♂️ About me
 
